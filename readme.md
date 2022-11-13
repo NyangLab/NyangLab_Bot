@@ -5,7 +5,7 @@ Thanks For PingPongTool Python Library Devloper.
 
 # 준비
 
-FFmpeg 설치 및 python 3.7이상, req.txt 설치
+FFmpeg 설치 및 python 3.7이상, req.txt 설치 (`pyhton3 -m pip install -r req.txt`)
 환경변수에 NYANGLAB_DPY_TOKEN 등록
 
 # 시작
