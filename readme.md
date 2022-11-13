@@ -1,3 +1,3 @@
 # ♥ Project. NyangLab
 
-`#Nov Project, #NyangLab, #With Python, #With `
+`#Nov First Project, #NyangLab, #With Python`
