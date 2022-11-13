@@ -1,0 +1,4 @@
+py-cord
+youtube_dl
+pynacl
+PingPongTool
